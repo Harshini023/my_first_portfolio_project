@@ -272,6 +272,7 @@ section{
     color: white;
     padding: 1rem 0;
     font-weight: normal;
+    text-transform: none;
 }
 
 .about .row .info-container .box-container .box h3 span {
