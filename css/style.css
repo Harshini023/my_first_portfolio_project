@@ -272,6 +272,7 @@ section{
     color: white;
     padding: 1rem 0;
     font-weight: normal;
+    text-transform: none;
 }
 
 .about .row .info-container .box-container .box h3 span {
@@ -513,6 +514,7 @@ section{
     line-height: 2;
     color: rgb(199, 196, 196);
     padding: 1rem 0;
+    text-transform: none;
 }
 
 .contact .row .info-container .box-container {
